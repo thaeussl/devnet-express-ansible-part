@@ -72,7 +72,7 @@
 #  - name: Create VRFs as defined by local_vrfs
 #    ios_vrf:
 #      vrfs: MISSION
-#      state: present
+#      state: MISSION
 #    register: addvrf
 ######### END MISSION SECTION #########
 
